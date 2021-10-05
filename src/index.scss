@@ -1,0 +1,31 @@
+// Variables
+
+:root {
+    --main-color: #1e1e29;
+    --button-color: #08c360;
+}
+// ***********************************************
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+// ***********************************************
+body {
+    font-family: 'Roboto', sans-serif;
+}
